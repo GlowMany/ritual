@@ -39,4 +39,4 @@ sudo curl -L "https://github.com/docker/compose/releases/download/v2.27.1/docker
 
 sudo chmod +x /usr/local/bin/docker-compose
 
-git clone https://github.com/ritual-net/infernet-container-starter
+git clone https://github.com/mxnster/infernet-container-starter
